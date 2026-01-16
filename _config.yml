@@ -1,7 +1,7 @@
 title: Modernist Homestead
 description: Biological Logistics & Land Systems
-url: "https://modernisthomestead.com"
-baseurl: ""
+url: "https://petersalvato.github.io/modernisthomestead-constellation"
+baseurl: "/modernisthomestead-constellation"
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
