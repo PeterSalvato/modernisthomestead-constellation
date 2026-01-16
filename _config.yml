@@ -1,0 +1,23 @@
+title: Modernist Homestead
+description: Biological Logistics & Land Systems
+url: "https://modernisthomestead.com"
+baseurl: ""
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+sass:
+  style: compressed
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

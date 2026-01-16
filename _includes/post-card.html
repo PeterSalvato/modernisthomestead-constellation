@@ -1,0 +1,7 @@
+<article class="post-card">
+    <h3><a href="{{ include.url }}">{{ include.title }}</a></h3>
+    <p class="post-meta">{{ include.date | date: "%B %d, %Y" }}</p>
+    {% if include.excerpt %}
+        <p class="excerpt">{{ include.excerpt | strip_html | truncatewords: 30 }}</p>
+    {% endif %}
+</article>
