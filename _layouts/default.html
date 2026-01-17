@@ -9,12 +9,18 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
 </head>
 <body>
-    {% include network-bar.html %}
+    <div class="page-layout">
+        {% include sidebar-nav.html %}
 
-    <main class="content-wrapper">
-        {{ content }}
-    </main>
+        <div class="page-content">
+            {% include network-bar.html %}
 
-    {% include footer.html %}
+            <main class="content-wrapper">
+                {{ content }}
+            </main>
+
+            {% include footer.html %}
+        </div>
+    </div>
 </body>
 </html>
