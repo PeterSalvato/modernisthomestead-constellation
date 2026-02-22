@@ -1,0 +1,23 @@
+# Modernist Homestead
+
+> Zero-willpower household systems for a neurodivergent family.
+
+## About
+
+ADHD means working memory is a scarce resource. Autism means sensory regulation is architecture, not preference. Celiac means a contamination is a medical event. Willpower runs out by 5 PM. Improvisation stopped working.
+
+Culinary modularity: five cuisine traditions organized by structural flavor elements (umami, acidity, heat, smoke). Sensory zoning: individual quiet rooms, pair study nooks, small-group kitchen, large-group living room. Executive function scaffolding: weekly check-ins, default meals, kitchen workflow design. Celiac protocol: separate surfaces, tools, cutting boards. Gamification: chore quests, XP, station-based rewards.
+
+The system does the thinking when thinking is exactly what's constrained. The environment holds decisions so the people don't have to.
+
+## Author
+
+Peter Salvato — Systems architect.
+Website: https://petersalvato.com
+Full case study: https://petersalvato.com/systems/modernist-homestead/
+
+## Contact
+
+Email: peter@petersalvato.com
+GitHub: https://github.com/petersalvato
+LinkedIn: https://linkedin.com/in/petersalvato
